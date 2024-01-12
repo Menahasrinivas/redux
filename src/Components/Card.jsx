@@ -39,21 +39,22 @@ function Card() {
 
   return (
     <>
-     
+     <div className='bg-dark text-center mb-5' style={{width:'100%',position:'sticky',top:'0',zIndex:'1',color:'white'}}> 
   <div className="row mt-4">
     
   </div>
   <div className="row mt-2 flex-column">
     <div className="col-12 text-center mb-3">
-      <button className='btn out' style={{ fontSize: "20px", fontWeight: "bold", fontFamily: "cursive", color: "black" }}>
+      <button className='btn out' style={{ fontSize: "20px", fontWeight: "bold", fontFamily: "cursive", color: "white" }}>
         <i className="fa-solid fa-cart-shopping"style={{color:"aqua", fontSize:"25px"}} /> <b>Total Price: $ {totalPrice}</b>
       </button>
     </div>
     <div className="col-12 text-center">
-      <button className='btn out' style={{ fontSize: "20px", fontWeight: "bold", fontFamily: "cursive", color: "black" }}>
+      <button className='btn out' style={{ fontSize: "20px", fontWeight: "bold", fontFamily: "cursive", color: "white" }}>
         <i className="fa-solid fa-cart-shopping" style={{color:"aqua", fontSize:"25px"}} /> Total Quantity: {totalCartQuantity}
       </button>
     </div>
+  </div>
   </div>
 
 
