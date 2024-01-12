@@ -52,9 +52,9 @@ function DataContextComponents({ children }) {
             "stock": 36,
             "brand": "Samsung",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUiREscJwFFIqtmwGnElNrt4n_C4ETfjjyg&usqp=CAU",
             "images": [
-                "https://i.dummyjson.com/data/products/3/1.jpg"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2-L7CY63DNA6_6k1_FXhcP6RmD1ejSWZKlw&usqp=CAU"
             ]
         },
         {
@@ -67,13 +67,13 @@ function DataContextComponents({ children }) {
             "stock": 123,
             "brand": "OPPO",
             "category": "smartphones",
-            "thumbnail": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAjW1TaQW1zSQku4ZBmRE2aLGbMcvJOwbt2g&usqp=CAU",
             "images": [
-                "https://i.dummyjson.com/data/products/4/1.jpg",
-                "https://i.dummyjson.com/data/products/4/2.jpg",
-                "https://i.dummyjson.com/data/products/4/3.jpg",
-                "https://i.dummyjson.com/data/products/4/4.jpg",
-                "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlDo-Bn106qVxHdq3rrWsgZ05JWgkep1d9uw&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQluyiMhqSt0-lLl2cTQC5-LKiZjXUMbQ4usVUGWrcHGKwGjyi0dPqU7BWcOtTnP-uhgyA&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfttvE0_5-ZrzdAjZlKO-CYm8pt4rXYRyPQ&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgtU5jvVS07oJKy4qT4YPvIK7sS4vXzJ7Daw&usqp=CAU",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrofQH8amWOxi9g3MALMQ4MEqGVzc0GbeFMg&usqp=CAU"
             ]
         },
         {
